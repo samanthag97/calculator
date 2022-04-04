@@ -1,1 +1,1 @@
-# calculator
+# calculator app for Android
